@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Papagaio</title>
+</head>
+
+<body style="text-align: center; margin: 80px 200px;">
+    <h1 style="color: chocolate; font-size: 100px;">Papagaio</h1>
+    <img width="400px"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Blue-and-yellow_Macaw_%28cropped%29.jpg/1920px-Blue-and-yellow_Macaw_%28cropped%29.jpg"
+        alt="Imagem de um papagaio">
+    <p style="margin: 50px;">
+        O papagaio é uma ave da ordem Psittaciformes e da família Psittacidae. São conhecidos pela sua habilidade de
+        imitar sons, incluindo a voz humana, e pela sua plumagem colorida e exuberante. Existem diversas espécies de
+        papagaios, cada uma com características únicas, mas em geral são animais sociáveis e inteligentes. Vivem em
+        habitats variados, desde florestas tropicais até áreas urbanas, e se alimentam principalmente de frutas, sementes
+        e vegetais. São animais de estimação populares devido à sua capacidade de interação com os humanos e à sua
+        personalidade cativante. No entanto, é importante fornecer-lhes cuidados adequados, incluindo uma dieta
+        balanceada, espaço para voar e estimulação mental.
+    </p> 
+    <a href="https://pt.wikipedia.org/wiki/Papagaio" target="_blank">Wikipedia</a>
+</body>
+
+</html>

@@ -10,7 +10,7 @@
 <body style="text-align: center; margin: 80px 200px;">
     <h1 style="color: chocolate; font-size: 100px;">Papagaio</h1>
     <img width="400px"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Blue-and-yellow_Macaw_%28cropped%29.jpg/1920px-Blue-and-yellow_Macaw_%28cropped%29.jpg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Papagaio-verdadeiro.jpg/280px-Papagaio-verdadeiro.jpg"
         alt="Imagem de um papagaio">
     <p style="margin: 50px;">
         O papagaio é uma ave da ordem Psittaciformes e da família Psittacidae. São conhecidos pela sua habilidade de
@@ -21,7 +21,7 @@
         personalidade cativante. No entanto, é importante fornecer-lhes cuidados adequados, incluindo uma dieta
         balanceada, espaço para voar e estimulação mental.
     </p> 
-    <a href="https://pt.wikipedia.org/wiki/Papagaio" target="_blank">Wikipedia</a>
+    <a href="https://pt.wikipedia.org/wiki/Papagaio-verdadeiro" target="_blank">Wikipedia</a>
 </body>
 
 </html>

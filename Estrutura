@@ -1,0 +1,8 @@
+ImobiConnect/
+├── index.html               # Tela de login
+├── dashboard.html           # Tela principal com botões
+├── documentos.html          # Tela de documentos
+├── notificacoes.html        # Tela de notificações
+├── manutencao.html          # Tela de manutenção
+└── css/
+    └── style.css            # Estilos visuais
